@@ -1,0 +1,6 @@
+com\uvg\productsearch\model\Product.class
+com\uvg\productsearch\datastructure\BinarySearchTree$Node.class
+com\uvg\productsearch\ProductSearchApplication.class
+com\uvg\productsearch\service\ProductService.class
+com\uvg\productsearch\controller\ProductController.class
+com\uvg\productsearch\datastructure\BinarySearchTree.class
